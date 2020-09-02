@@ -1,4 +1,4 @@
 Hey!
 
-In This Repository i have some basic python codes which i have worked following with some exercise  based.
+In This Repository I have some basic python codes which i have worked on following with some exercise  based.
 Thank You!
